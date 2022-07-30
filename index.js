@@ -3,7 +3,7 @@ const url = require('url');
 const fs = require('fs');
 const PORT = 5000;
 
-const homeController = require('./contolers/home.js');
+const homeController = require('./contollers/home.js');
 
 const requestListener = (req, res) => {
 
